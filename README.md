@@ -8,7 +8,7 @@
   <i>"Bot Dev | Web Dev | Learning"</i>
 </p
 
-### 🛠 Technical Ecosystem
+### Technical Ecosystem
 
 **Frontend & Backend Development**
 <p align="center">
