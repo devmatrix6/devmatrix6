@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>"Developer"</i>
+  <i>"Bot Dev | Web Dev | Learning"</i>
 </p
 
 ### 🛠 Technical Ecosystem
