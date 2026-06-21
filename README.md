@@ -1,7 +1,7 @@
 <h1 align="center">devmatrix6</h1>
 
 <p align="center">
-  <img src="your-hacker-animation.gif" width="100%" alt="hacker-terminal-running">
+  <img src="kalilinux.gif" width="100%" alt="hacker-terminal-running">
 </p>
 
 <p align="center">
