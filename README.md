@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="kali-linux.gif" width="100%" alt="hacker-terminal-running">
+  <img src="kalilinux.gif" width="100%" alt="hacker-terminal-running">
 </p>
 
 ### Technical Ecosystem
