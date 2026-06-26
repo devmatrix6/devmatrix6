@@ -1,12 +1,12 @@
-<h1 align="center">devmatrix6</h1>
+<h1 align="center">Hi, I'm !dev</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Dev;Bot+Dev;Kali+User;Learning+Dev" alt="Typing Animation" />
+</h3>
 
 <p align="center">
-  <img src="kalilinux.gif" width="100%" alt="hacker-terminal-running">
+  <img src="kalilinux.gif" width="600" height="250" style="object-fit: cover;">
 </p>
-
-<p align="center">
-  <i>Bot Dev | Web Dev | Learning</i>
-</p
 
 ### Technical Ecosystem
 
